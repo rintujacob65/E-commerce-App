@@ -13,6 +13,8 @@ User can Search Products based on particular category, new Arrivals, best seller
 
 
 E-commerce Project By Admin
+
+
 Admin will be able to create category, create product, update and delete the products, view purchase history and update order status and update profile.
 
 ![i-min](https://user-images.githubusercontent.com/59987319/83185572-3fe05e80-a13c-11ea-9cac-3b10e4c6311f.gif)
