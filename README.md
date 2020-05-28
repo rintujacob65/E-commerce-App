@@ -7,7 +7,7 @@ E-commerce Project By User
 
 E-commerce Project By Admin
 
-![i-min](https://user-images.githubusercontent.com/59987319/83185572-3fe05e80-a13c-11ea-9cac-3b10e4c6311f.gif)
+
 
 
 
