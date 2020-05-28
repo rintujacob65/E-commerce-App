@@ -19,8 +19,8 @@ const Search = () => {
             if(data.error) {
                 console.log(data.error);
             } else {
-                setData({...data, categories: data})
-            }
+                setData({...data, categories: data});
+           }
         })
     }
 
@@ -29,7 +29,7 @@ const Search = () => {
     }, [])
 
     const searchData = () => {
-       // console.log(search, category)
+       // console.log("search new", category)
        if(search) {
            list ({ search: search || undefined, category: category})
            .then(res => {
