@@ -1,7 +1,7 @@
 const {Order, CartItem} = require('../models/order');
 const { errorHandler } = require("../helpers/dbErrorHandler");
 const sgMail = require('@sendgrid/mail');
-sgMail.setApiKey('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');
+sgMail.setApiKey('write api key');
 
 
 exports.orderById = (req, res, next, id) => {
